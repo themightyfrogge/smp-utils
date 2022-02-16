@@ -1,0 +1,9 @@
+name: SMP-Utils
+author: themightyfrogge
+main: io.github.themightyfrogge.Main
+description: 'A plugin that adds some tools to make SMPs easier to manage.'
+commands:
+  smputils:
+    description: 'The main command of the plugin.'
+    aliases: [smp-utils,smp-util,smputil,smputils,smptools,smp-tools,smptool,smp-tool]
+    usage: /<command>
