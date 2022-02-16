@@ -1,4 +1,4 @@
-# smp-utils
+# SMP Utils
  A paperspigot plugin which adds some cool SMP Utilization tools for Minecraft SMPs.
  
 # API
